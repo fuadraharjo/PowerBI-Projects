@@ -9,6 +9,6 @@ The explanation of the dashboard:
 - we can use PowerBI as a tool to process relational datasets
 - we can see how many sales we get in total or several times
 - we can see how many customers ordered in total or several times
-- we can see tren lines based on `weekday` or `monthly`
+- we can see trend lines based on `weekday` or `monthly`
 - we can see the composition of `customer visists` by `size`
 - we can see the composition of `customer visists` by `category`
