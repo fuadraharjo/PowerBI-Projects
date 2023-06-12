@@ -1,6 +1,6 @@
 This dataset came from kaggle, you can visit with this link [https://www.kaggle.com/datasets/ahmettyilmazz/fuel-consumption](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
 
-The sample dashboard can be seen in Dashboard-PowerBI-DS-Salaries.png
+The sample dashboard can be seen in `Dashboard-PowerBI-DS-Salaries.png`
 
 You can use freely the PowerBI file that have made the dashboard
 
