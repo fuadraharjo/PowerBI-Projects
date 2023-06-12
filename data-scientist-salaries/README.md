@@ -8,7 +8,7 @@ This data set had been cleaned using pyhton (results in ds_salaries.csv), if you
 
 The explanation of the dashboard:
 
-we can explain trend line of salaries over years
-we can filter salaries based on `job titles`, `remote working types`, `size company`, `employee types`, `employee levels` and `year`
-we can see overall summation of salaries
-we can look at the overall number of data scientists
+- we can explain trend line of salaries over years
+- we can filter salaries based on `job titles`, `remote working types`, `size company`, `employee types`, `employee levels` and `year`
+- we can see overall summation of salaries
+- we can look at the overall number of data scientists
