@@ -1,4 +1,4 @@
-This dataset came from kaggle, you can visit with this link [https://www.kaggle.com/datasets/ahmettyilmazz/fuel-consumption](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales)
+This dataset came from kaggle, you can visit with this link https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 
 The sample dashboard can be seen in `Dashboard-pizza-restaurant.png`
 
