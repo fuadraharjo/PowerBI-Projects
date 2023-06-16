@@ -1,7 +1,7 @@
 This dataset came from kaggle, you can visit with this link [https://www.kaggle.com/datasets/ahmettyilmazz/fuel-consumption](https://www.kaggle.com/datasets/ahmettyilmazz/fuel-consumption)
 
 The sample dashboard can be seen in `Dashboard-fuel-consumption-PowerBI.png`
-You can use freely the excel file that have made the dashboard
+You can use freely the PoweBI file that have made the dashboard
 
 The explanation of the dashboard:
 - we can describe global emission trendlines over the years
