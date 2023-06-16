@@ -2,7 +2,7 @@ This dataset came from kaggle, you can visit with this link https://www.kaggle.c
 
 The sample dashboard can be seen in `Dashboard-pizza-restaurant.png`
 
-You can use freely the excel file that have made the dashboard
+You can use freely the PowerBI file that have made the dashboard
 
 The explanation of the dashboard:
 
